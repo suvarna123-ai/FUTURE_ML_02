@@ -4,9 +4,23 @@
 
 This project classifies customer support tickets using Machine Learning and NLP techniques.
 
-## Tools Used
+## Features
+- Ticket Text Processing
+- NLP Feature Extraction
+- Department Prediction
+- Priority Prediction
+- Data Visualization
+
+## Technologies Used
 - Python
 - Pandas
 - Scikit-learn
-- NLTK
+- TF-IDF Vectorization
+- Logistic Regression
 - Jupyter Notebook
+
+## Project Outcome
+The system automatically classifies support tickets and predicts ticket priorities.
+
+## Author
+Suvarna Naidu
